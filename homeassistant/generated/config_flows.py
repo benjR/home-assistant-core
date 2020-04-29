@@ -114,6 +114,7 @@ FLOWS = [
     "neato",
     "nest",
     "netatmo",
+    "netgear",
     "nexia",
     "notion",
     "nuheat",
